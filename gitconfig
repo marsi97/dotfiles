@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marsela.saraci@yahoo.com
+	name = Marsela Saraci
